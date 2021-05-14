@@ -3,7 +3,7 @@ Learning from GWT tutorial on StockWatcher using maven instead of Eclipse plugin
 
 I get this error
 
-<code>
+<quote>
 ConsoleLogger.java:33 ERROR!!! com.google.gwt.user.client.rpc.InvocationException: <!DOCTYPE html>
 <html>
 <head>
@@ -74,5 +74,5 @@ vb_g$ @ Timer.java:135
 xI_g$ @ Impl.java:309
 AI_g$ @ Impl.java:368
 (anonymous) @ Impl.java:78
-</code>
+</quote>
 
