@@ -22,7 +22,7 @@ ConsoleLogger.java:33 ERROR!!! com.google.gwt.user.client.rpc.InvocationExceptio
     <script type="text/javascript" language="javascript" src="stockwatcher.StockWatcher.nocache.js"></script>
 </head>
 <body>
-\<h1>Stock Watcher UI\</h1>
+<h1>Stock Watcher UI</h1>
 <div id="stockList"></div>
 <iframe src="javascript:''" id="__gwt_historyFrame" tabIndex='-1' style="position:absolute;width:0;height:0;border:0"></iframe>
 <noscript>
@@ -39,7 +39,7 @@ Elf_g$ @ ConsoleLogger.java:33
 <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <link type="text/css" rel="stylesheet" href="StockWatcher.css">
-    \<title>Stock Watcher UI\</title>
+    <title>Stock Watcher UI</title>
     <script type="text/javascript" language="javascript" src="stockwatcher.StockWatcher.nocache.js"></script>
 </head>
 <body>
