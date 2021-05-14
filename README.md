@@ -2,8 +2,17 @@
 Learning from GWT tutorial on StockWatcher using maven instead of Eclipse plugin.
 
 I get this error
+Asynchronous calls to server causes com.google.gwt.user.client.rpc.InvocationException
+Following steps from
 
-<quote>
+http://www.gwtproject.org/doc/latest/tutorial/RPC.html
+
+using maven to build following Ibaca and Lofi's tutorials.
+
+https://dev.to/ibaca/modern-gwt-first-steps-509k#the-starting-guide
+
+
+
 ConsoleLogger.java:33 ERROR!!! com.google.gwt.user.client.rpc.InvocationException: <!DOCTYPE html>
 <html>
 <head>
@@ -74,5 +83,4 @@ vb_g$ @ Timer.java:135
 xI_g$ @ Impl.java:309
 AI_g$ @ Impl.java:368
 (anonymous) @ Impl.java:78
-</quote>
 
